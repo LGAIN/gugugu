@@ -1,2 +1,1 @@
 # gugugu
-personal subscription Service
